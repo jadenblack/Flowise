@@ -106,7 +106,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/Flowise](https://github.com/jadenblack/Flowise)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|111<br/>Tools used|12/14/23 <br/>Report generated|
+|115<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -563,9 +563,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (59)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (63)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (59)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (63)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -599,7 +599,9 @@ Full tech stack [here](/techstack.md)
 |[google-auth-library](https://www.npmjs.com/google-auth-library)|v9.0.0|09/05/23|Martin Andrews |Apache-2.0|N/A|
 |[history](https://www.npmjs.com/history)|v5.0.0|04/06/23|Henry |MIT|N/A|
 |[html-to-text](https://www.npmjs.com/html-to-text)|v9.0.5|11/09/23|Henry |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.1|09/04/23|chungyau97 |MIT|N/A|
 |[ioredis](https://www.npmjs.com/ioredis)|v5.3.2|10/06/23|vinodkiran |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.0.3|04/06/23|Henry |MIT|N/A|
 |[moment](https://www.npmjs.com/moment)|v2.29.3|09/30/23|vinodkiran |MIT|[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[moment-timezone](https://www.npmjs.com/moment-timezone)|v0.5.34|04/06/23|Henry |MIT|[](https://github.com/advisories/GHSA-v78c-4p63-2j6c) (Moderate)<br/>[](https://github.com/advisories/GHSA-56x4-j7p9-fcf9) (Low)|
 |[multer](https://www.npmjs.com/multer)|v1.4.5|05/04/23|Henry |MIT|N/A|
@@ -628,6 +630,8 @@ Full tech stack [here](/techstack.md)
 |[sqlite3](https://www.npmjs.com/sqlite3)|v5.1.6|04/06/23|Henry |BSD-3-Clause|N/A|
 |[ts-node](https://www.npmjs.com/ts-node)|v10.7.0|04/06/23|Henry |MIT|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v9.0.1|09/19/23|chungyau97 |MIT|N/A|
+|[winston](https://www.npmjs.com/winston)|v3.9.0|07/03/23|Matthias Platzer |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.32.9|04/06/23|Henry |MIT|N/A|
 
 <br/>
 <div align='center'>
